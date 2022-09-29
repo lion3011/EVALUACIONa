@@ -1,0 +1,44 @@
+body{
+    background-color: #363853;
+    display: flex;
+    margin: 30px;
+    justify-content: space-around;
+}
+
+.barra_content{
+    background-color: #404BDA;
+    border: white solid;
+    width: 20rem;
+    right: 50rem;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+}
+.imagenusuario{
+    display: flex;
+    width: 150px;
+    border: white solid;
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.perfil{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.derecha{
+    border: white solid;
+    width: 120rem;
+}
+.barrasuperior_content{
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+}
